@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e893b175fa8425897051d8f1111d601, type: 3}
+  m_Name: AudioCatalog
+  m_EditorClassIdentifier: 
+  startClip: {fileID: 8300000, guid: d7519dc7935cd3f48803ce78a4d6e0ca, type: 3}
+  startFondoClip: {fileID: 8300000, guid: 1fec911e8ebb3404082205eaf31d117d, type: 3}
+  paintingAmbientClip: {fileID: 8300000, guid: d45d0a343e1d9c646a3425e714b3c823, type: 3}
+  paintingLoopClip: {fileID: 8300000, guid: 28345d44fab3f754bb6bae13a2957958, type: 3}
+  paintingSecondaryClip: {fileID: 8300000, guid: 28345d44fab3f754bb6bae13a2957958, type: 3}
+  finishClip: {fileID: 8300000, guid: 1fe8bec6a8db223438fef25796034703, type: 3}
+  resultsClip: {fileID: 8300000, guid: 4ddf17f5720241f4d95dcfdd305eda86, type: 3}
