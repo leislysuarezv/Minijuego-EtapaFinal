@@ -31,3 +31,4 @@ En esta última iteración, el equipo ha implementado con éxito las siguientes 
 Lograr el mayor porcentaje de precisión posible al trazar los carriles de los circuitos asignados, garantizando una experiencia jugable fluida y libre de errores.
 
 
+
